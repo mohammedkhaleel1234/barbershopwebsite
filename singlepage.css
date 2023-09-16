@@ -1,0 +1,847 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+.logo{
+    margin-left: 0px;
+    width: 107px;
+}
+.nav-item{
+    margin-right: 43px;
+    margin-left: 65px;
+    font-size: 15px;
+    color: black;
+    margin-top: -7px;
+    /* font-family: 'Poppins', sans-serif; */
+}
+.headerdiv{
+    width: 100%;
+    height: 65px;
+}
+.footerheighs{
+    height: 40px;
+}
+.subone{
+    margin-bottom: 139px;
+    margin-left: 20px;
+    position: relative;
+    top: 139px;
+    
+}
+.servicesmain{
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.calltoma{
+    font-size: 24px;
+    
+}
+.aboutour{
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.texthomeservice{
+    text-align: center;
+}
+.textcuttingservices{
+    text-align: center;
+}
+.textbarberservices{
+    text-align: center;
+}
+.heightfone{
+    height: 0px;
+}
+.heightf{
+    height: 290px;
+}
+.copyright{
+    text-align: center;
+    margin-top: 15px;
+}
+.font{
+    font-size: medium;
+}
+.textcolor{
+    color: white;
+    font-size: 24px;
+    
+}
+.subtwo{
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+.margingstops{
+    margin-top: 25px;
+}
+.bg-black{
+    height: 337px;
+}
+.textone{
+    color: white;
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.subthree{
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+.pcolor{
+    color: white;
+    width: 250px;
+    font-size: 24px;
+    
+
+}
+.button{
+    background-color: yellow;
+    color: black;
+    border: none;
+    width: 140px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.main{
+    background-image: url(./image/Rectangle\ 2\ \(6\).png);
+    width: 100%;
+    height: 551px; 
+    margin-bottom: 50px;
+}
+.img{
+    width: 100%;
+    
+}
+.services{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.newservices{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.team{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.contact{
+    text-align: center;
+    margin-bottom: 50px
+}
+.marginright{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 0px;
+}
+.marginbottom{
+    margin-bottom: 0px;
+    
+}
+.marginbottomone{
+    margin-bottom: 30px;
+    text-align: left;
+}
+.left{
+    margin-left: 0px;
+    text-align: center;
+}
+.leftone{
+    margin-left: 0px;
+    text-align: center;
+}
+/* .heightsave{
+    height: 448px;
+    object-fit: contain;
+} */
+.lefttwo{
+    margin-left: 0px;
+    
+    margin-top: 0px;
+    text-align: center;
+}
+.borderradione{
+    border-radius: 10px;
+}
+.phonebottom{
+    font-size: 24px;
+   
+}
+.tattoartistma{
+    font-size: 18px;
+    
+}
+.testimionials{
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.bookyour{
+    font-size: 24px;
+    
+
+}
+.contacts{
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.consecters{
+    font-size: 24px;
+    
+}
+.consectersone{
+    font-size: 20px;
+    
+}
+
+.teamsma{
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.bharaths{
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.haircut{
+    font-size: 24px;
+    
+}
+.borderrad{
+    border-radius: 10px;
+}
+.newservicesmain{
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.barberservicesma{
+    font-size: 24px;
+    
+}
+.top{
+    margin-top: 5px;
+    text-align: center;
+}
+.buttons{
+    background-color: white;
+    border: none;
+    
+    
+}
+.leftmoves{
+    background-color: #D9D9D9;
+    border: none;
+    padding-left: 5px;
+}
+.buttonimg{
+    object-fit: cover;
+    width: 50%;
+}
+.buttonsfo{
+    border: none;
+    background-color: white;
+    
+}
+.leftcallnow{
+    margin-left: 50px;
+}
+.leftbuttoninput{
+    margin-left: 50px;
+}
+.leftsign{
+    margin-left: 53px;
+}
+.leftcontact{
+    margin-left: 50px;
+}
+.lefttest{
+    margin-left: 50px;
+}
+.leftservicess{
+    margin-left: 48px;
+}
+.leftteam{
+    margin-left: 50px;
+}
+.leftabout{
+    margin-left: 48px;
+}
+.lefthome{
+    margin-left: 47px;
+}
+.leftmeetwith{
+    margin-left: 66px;
+}
+.leftcontactus{
+    margin-left: 64px;
+}
+.leftour{
+    margin-left: 64px;
+}
+.leftonesfo{
+    margin-left: 63px;
+}
+.leftlegal{
+    margin-left: 65px;
+}
+.leftsideser{
+    margin-left: 64px;
+}
+.vectorimg{
+    
+    margin-top: 60px;
+}
+
+.trimimage{
+   
+    margin-top: 46px;
+}
+
+.haircolor{
+    
+    margin-top: 60px; 
+}
+
+.barberchair{
+    
+    margin-top: 44px; 
+}
+.margr{
+    margin-right: 10px;
+}
+
+.barbershophair{
+    
+    margin-top: 48px; 
+}
+
+.imagetwo{
+    
+    margin-top: 30px; 
+}
+
+.testimonial{
+    text-align: center;
+}
+.testimonialpara{
+    text-align: center;
+    margin-bottom: 100px;
+    
+    
+}
+.testimonialparaone{
+    text-align: center; 
+    position: relative;
+    top: 55px;
+    width: 647px;
+    margin-left: 5px;
+    
+}
+.testibg{
+    justify-content: center;
+    background-color: #cec8c83f;
+    
+    height: 400px;
+}
+.borderimg{
+    border-radius: 150px;
+    
+}
+.tatoleft{
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.phonetext{
+    width: 694px;
+}
+.messaget{
+    
+    width:694px ;
+    height: 100px;
+    
+    
+}
+.height{
+    height: 293px;
+}
+/* .display{
+    display: flex;
+} */
+.displayone{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.imageone{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    border-radius: 30px;
+}
+.imagefour{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    border-radius: 30px;
+}
+.imagethree{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    border-radius: 30px;
+}
+.imagesix{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    border-radius: 30px;
+}
+.imageseven{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    border-radius: 30px;
+}
+.imageeight{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    border-radius: 30px;
+}
+.testimoni{
+    margin-bottom: 35px;
+}
+.title{
+     padding: 20px 20px;
+     text-align: center;
+}
+.imageservices{
+    object-fit: cover;
+    width: 100%;
+    min-height: 430px;
+
+}
+.icon{
+    text-align: center;
+}
+.iconone{
+    text-align:center ;
+}
+.icontwo{
+text-align: center;
+}
+.iconthree{
+  text-align: center;
+}
+.iconfour{
+text-align: center;
+}
+.iconfive{
+  text-align: center;
+}
+.textcut{
+   text-align: center;
+}
+.texttrim{
+    text-align: center;
+}
+.texthair{
+text-align: center;
+}
+.textseat{
+  text-align: center;
+}
+.textstyle{
+text-align: center;
+}
+.textfacial{
+text-align: center;
+}
+.textbharath{
+    text-align: center;
+}
+.textartist{
+    text-align: center;
+}
+.textprem{
+    text-align: center;
+}
+.textcolorartist{
+text-align: center;
+}
+.textnarain{
+    text-align: center;
+}
+.texthairartist{
+    text-align: center;
+}
+.ime{
+    margin-top: 23px;
+}
+.textnirmal{
+    text-align: center;
+}
+.texttattoartist{
+    text-align: center;
+}
+.textvikram{
+    text-align: center;
+}
+.textmassageartist{
+    text-align: center;
+}
+.textmerlin{
+    text-align: center;
+}
+.textstylish{
+    text-align: center;
+}
+.textlabore{
+    text-align: center;
+    margin-bottom: 130px;
+}
+.textmerlinses{
+    text-align: center;
+}
+.textdesigner{
+    text-align: center;
+}
+
+@media screen and (max-width:500px){
+    .display{
+        display: block;
+    }
+    .headerdiv{
+        width: 100%;
+        height: auto;
+    }
+    header,
+    footer,
+    main {
+        overflow: hidden;
+    }
+    .lefthome{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftmeetwith{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .consectersone{
+        font-size: 5px;
+        
+    }
+    .leftbuttoninput{
+        margin-left: 90px;
+    }
+    .one{
+        margin-left: 97px;
+    }
+    .margingstops{
+        margin-top: 25px;
+        
+    }
+    .leftcontactus{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .change{
+        width: 35px;
+        height: 28px;
+    }
+    .leftcallnow{
+        margin-left: 130px;
+    }
+    .leftour{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftonesfo{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftlegal{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .imagessss{
+        text-align: center;
+        margin-left: 97px;
+    }
+    .barberfo{
+        text-align: center;
+    }
+    .leftsideser{
+        margin-left: 0px;
+        text-align: center;
+    }
+    
+    .main{
+        background-image: url(./image/Rectangle\ 2\ \(6\).png);
+
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 180px; 
+        margin-bottom: 50px;
+    }
+    .bg-black{
+        height: 1058px;
+    }
+    .testimionials{
+        font-size: 15px;
+        font-family: 'Outfit', sans-serif;
+    }
+    .textone{
+        color: white;
+        font-size: 20px;
+        font-family: 'Outfit', sans-serif;
+    }
+    .subone{
+        margin-bottom: 32px;
+        margin-left: 5px;
+        position: relative;
+        top: 30px;
+        font-size: 15px;
+        
+    }
+    .consecters{
+        font-size: 10px;
+        
+    }
+    .newbottom{
+        margin-bottom: 10px;
+       
+    }
+    .leftcontact{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .lefttest{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftservicess{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftteam{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftabout{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .phonebottom{
+        margin-bottom: 20px;
+    }
+    .subtwo{
+        margin-bottom: 2px;
+        margin-left: 5px;
+       font-size: 15px;
+    }
+    .subthree{
+        margin-bottom: -11px;
+        margin-left: 5px;
+    }
+    .pcolor{
+        color: white;
+        width: 125px;
+
+        font-size: 10px;
+    }
+    .button{
+        background-color: yellow;
+        color: black;
+        border: none;
+        width: 80px;
+        height: 30px;
+        margin-left: 5px;
+        border-radius: 10px;
+        font-size: small;
+    }
+    .logo{
+        margin-left: 0px;
+        width: 126px;
+    }
+    .fontc{
+        font-size: 15px;
+    }
+    .fontcone{
+        font-size: 5px;
+    }
+    .testimonialpara{
+        text-align: center;
+        margin-bottom: 50px;
+        
+        
+    }
+    .testibg{
+        background-color: #cec8c83f;
+        margin-left: 100px;
+        height: 100px;
+    }
+    .testimonialparaone{
+        text-align: center; 
+        margin-bottom: 0px;
+        position: relative;
+        top: 10px;
+        font-size: 5px;
+    }
+    .borderimg{
+        border-radius: 150px;
+        
+    }
+    .ime{
+        height: 45px;
+        margin-top: 25px;
+    }
+    .displayone{
+        display: flex;
+    }
+    .textcolor{
+        color: white;
+        font-size: 20px;
+        
+    }
+
+    .merlin{
+        font-size: 15px;
+    }
+    .Tatoo{
+        font-size: 10px;
+    }
+    .move{
+        margin-right: 10px;
+    }
+    .testimonialparaone{
+        text-align: center; 
+        position: relative;
+        top: 55px;
+        width: 184px;
+        margin-left: 5px;
+        
+    }
+    .phonetext{
+        width: 357px;
+        border-color: rgb(151, 143, 143);
+       
+    }
+    .messaget{
+    
+        width:354px ;
+        height: 100px;
+        border-color: rgb(151, 143, 143);
+        padding-left: 5px;
+        position: relative;
+        top: 0px;
+        
+        
+    }
+    .img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .contact{
+        text-align: center;
+        margin-bottom: 70px
+    }
+    .height{
+        height: 1000px;
+    }
+    .top{
+        margin-top: 5px;
+       text-align: center;
+      width: 410px;
+      margin-bottom: 20px;
+    }
+    .topone{
+        margin-top: 5px;
+        margin-left: 125px;
+    }
+    .marginbottomone{
+        margin-bottom: 30px;
+        text-align: center;
+        width: 376px;
+    }
+    .group{
+        width: 250% !important;
+        margin-left: 100px;
+        margin-bottom: 10px;
+    }
+    .heightfone{
+        height: 25px;
+    }
+    .nav-item{
+        margin-right: 43px;
+        margin-left: 5px;
+        font-size: 15px;
+        color: black;
+        margin-top: -5px;
+    }
+    .left{
+        margin-left: 0px;
+        text-align: center;
+        margin-left: 0px;
+        
+        
+    }
+    .mars{
+        margin-bottom: 20px;
+    }
+    .leftone{
+        margin-left: 0px;
+        text-align: center;
+        margin-left: 0px;
+        width: 410px;
+        
+    }
+    .lefttwo{
+        margin-left: 0px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+        text-align: center;
+        width: 412px;
+    }
+    .dows{
+        margin-bottom: 20px;
+    }
+    .leftmoves{
+        margin-left: 0px;
+    }
+    .tatoleft{
+        margin-left: 10px;
+        margin-top: 4px;
+    }
+    .row{
+        display: block;
+        
+    }
+    .heightf{
+        height: 1000px;
+    }
+    .testimoni{
+        margin-bottom: 10px;
+    }
+    .textlabore{
+        text-align: center;
+        margin-bottom: 15px;
+        font-size: 10px;
+        
+    }
+    .testimonialparaone{
+        text-align: center; 
+        position: relative;
+        top: 15px;
+        
+    }
+    .displayone{
+        display: flex;
+        justify-content: center;
+        margin-top: 0px;
+    }
+    
+}
